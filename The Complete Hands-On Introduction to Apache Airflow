@@ -1,1 +1,11 @@
+Project 01 : A simple data pipeline
 
+1. Created a table with the Postgres operator 
+
+2. Check whether an API is available. The operator used here will help us wait for some time before moving on to the next task.
+
+3. Extract user
+
+4. Process that user with one of the most popular operator in Airflow.
+
+5. Finally, we store that user in the Postgres database.
